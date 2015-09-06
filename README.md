@@ -8,6 +8,23 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## Une conduite un peu gauche !
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/onRouleAGauche.jpg)
+
+Ayant été pendant très longtemps sous l'influence britannique, l'Irlande fait partie des quelques pays dont la conduite se fait à gauche. Le premier rappel est effectué à la sortie de l'aéroport afin de sensibiliser les voyageurs attendant leur bagage.
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/carteSensCirculation.jpg)
+
+(source Wikipedia)
+
+Quelques statistiques, 75 pays, principalement des ex-colonies britanniques (Hong Kong en fait partie, qui implique que la Chine est le seul pays au monde possédant deux sens, car le reste du pays roule à droite), roulent à gauche contre 161 à droite (pourcentage important, mais superficie plutôt faible comme on peut le voir sur la carte montrant en rouge les pays roulant à droite). Les raisons de l'existence de ces deux sens sont historiques. Lors de la période romaine, les chevalier se croisant, majoritairement droitiers, préféraient tenir de leur main droite leur épée, pour être prêts à attaquer un éventuel ennemi. Cela les poussaient donc à coller la gauche. Puis s'en sont venues les calèches, n'ayant pas de place pour le cocher, qui, pour mener les quatre chevaux s'asseyait généralement sur le cheval arrière droit afin de pouvoir diriger de sa main droite le troupeau. Pour avoir une meilleure visibilité sur la route, ils conduiront alors à droite. Cela s'est ensuite répendu dans le monde, la conquête de Napoléon n'y est pas pour rien, puis finalement officialisé par la CONVENTION ON ROAD TRAFFIC de Genève en 1949, qui n'était pas au gout des anglais. 
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/lookLeft.jpg)
+
+Je n'ai pas encore eu l'occasion de conduire moi-même en voiture, mais malgré cela, le changement nécessite une adaptation. En effet, étant piéton, et habitué aux routes parisiennes, j'ai pris l'habitude de traverser (n'importe où) avec prudence, mais surtout avec une certaine anticipation. Ainsi, à proximité d'une intersection je regarde au loin à gauche, puis à droite, mais sans généralement m'arrêter si le trafic n'est pas trop dense. Or dans les rues Irlandaises, cet automatisme doit être inversé, ce qui demande une grande prudence et parfois un peu de confusion. D'ailleurs, pour des raisons de sécurité le gouvernement a placé, sur les passages piétons des zones touristiques, une flèche indiquant de quel côté regarder ! En vélo, la même prudence est de mise, et il est préférable de réfléchir avant de se lancer dans un rond-point ou dans une rue vide.
+
+
 ## "Mes chers parents je vole…"
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/depart.jpg)
@@ -22,7 +39,7 @@ Après une petite heure d'attente, l'embarquement commence. Ayant profité de l'
 
 C'est parti pour 1h55 de vol. A peine le décollage effectué qu'un petit déjeuner Irlandais est proposé pour la correcte somme de 7€ : saucisses, bacon, pudding, pain irlandais (McCambridge brown bread). Le tout est bien sûr accompagnés d'un thé et de l'Irish Time du jour offert pour toute commande. Ayant pu bénéficier d'un (dernier ?) petit déjeuner sucré bien français le matin même, je résisterais à la tentation malgré l'odeur alléchante, avec la promesse d'investir dans un petit déjeuner de meilleure qualité une fois sur place.
 
-J'arrive à Dublin sans encombre. Dans l'aéroport, rien à envier au luxe genevois, l'ambiance est plutôt sobre avec une prédominance particulière pour la couleur verte. Tous les panneaux possèdent la double traduction anglais / celtique. Mais aucune ressemblance apparente se laisse deviner, les langages ont l'air assez éloignés! Je me dirige vers la sortie où m'attend mon chauffeur, avec une pancarte à mon nom pour m'accompagner jusqu'à mon logement provisoire. 
+J'arrive à Dublin sans encombre. Dans l'aéroport, rien à envier au luxe genevois, l'ambiance est plutôt sobre avec une prédominance particulière pour la couleur verte. Tous les panneaux possèdent la double traduction anglais / celtique. Mais aucune ressemblance apparente se laisse deviner, les langages ont l'air assez éloignés! Je me dirige vers la sortie où m'attend mon chauffeur, avec une pancarte à mon nom, pour m'accompagner jusqu'à mon logement provisoire. 
 
 ## Préparatifs
 
