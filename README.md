@@ -39,7 +39,7 @@ Après une petite heure d'attente, l'embarquement commence. Ayant profité de l'
 
 C'est parti pour 1h55 de vol. A peine le décollage effectué qu'un petit déjeuner Irlandais est proposé pour la correcte somme de 7€ : saucisses, bacon, pudding, pain irlandais (McCambridge brown bread). Le tout est bien sûr accompagnés d'un thé et de l'Irish Time du jour offert pour toute commande. Ayant pu bénéficier d'un (dernier ?) petit déjeuner sucré bien français le matin même, je résisterais à la tentation malgré l'odeur alléchante, avec la promesse d'investir dans un petit déjeuner de meilleure qualité une fois sur place.
 
-J'arrive à Dublin sans encombre. Dans l'aéroport, rien à envier au luxe genevois, l'ambiance est plutôt sobre avec une prédominance particulière pour la couleur verte. Tous les panneaux possèdent la double traduction anglais / celtique. Mais aucune ressemblance apparente se laisse deviner, les langages ont l'air assez éloignés! Je me dirige vers la sortie où m'attend mon chauffeur, avec une pancarte à mon nom, pour m'accompagner jusqu'à mon logement provisoire. 
+J'arrive à Dublin sans encombre, sous un temps <s>radieux</s> très couvert. Dans l'aéroport, rien à envier au luxe genevois, l'ambiance est plutôt sobre avec une prédominance particulière pour la couleur verte. Tous les panneaux possèdent la double traduction anglais / celtique. Mais aucune ressemblance apparente se laisse deviner, les langages ont l'air assez éloignés! Je me dirige vers la sortie où m'attend mon chauffeur, avec une pancarte à mon nom, pour m'accompagner jusqu'à mon logement provisoire. 
 
 ## Préparatifs
 
