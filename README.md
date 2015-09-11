@@ -15,16 +15,22 @@ Voici donc les premières photos de Dublin que j'ai pu capturer avant l'inévita
 
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublin.jpg "River Liffey")
 La rivière Liffey sépare Dublin Sud (réputé pour être la partie riche de la ville), et Dublin Nord.
+
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinStreet.jpg "Rue temple bar de Dublin")
 Temple bar, qui comme son nom l'indique est une rue pavée, très touristique et animée qui propose plus d'une cinquantaine de pubs.
+
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/leprechaun.jpg  "Un leprechaun !!")
+
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/stStephensGreen.jpg "St Stephens Green")
-St Stephens Green, dont le nom vient d'une église en l'éfigie du saint de St Stephen, est un parc situé dans le centre de Dublin, aux pelouses très vertes. C'est un endroit idéal pour s'isoler de l'animation du centre ville.
+St Stephens Green, dont le nom vient d'une église en l'éfigie du saint St Stephen au même endroit avant que le parc la remplace. Celui ci est situé au centre de Dublin. Avec son plan d'eau ses pelouses d'un vert écarlates taillés au milimètre près, ce parc est un endroit idéal pour s'isoler de l'animation du centre ville.
+
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/stStephensGreenShoppingCenter.jpg  "St Stephens Green shopping center")
 Magnifique centre commercial en face du parc lui ayant donné son nom, ce lieu a été un des premier lieu de concert du groupe de rock Dublinois, U2.
 
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/appartment.jpg)
+Mon salon :)
 
-J'ai l'espoir de pouvoir vous proposer sous peu des photos sous le soleil !
+J'ai l'espoir (l'espoir fait vivre :p) de pouvoir vous proposer sous peu des photos sous le soleil !
 
 
 ## Une conduite un peu gauche !
