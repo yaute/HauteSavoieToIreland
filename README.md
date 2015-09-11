@@ -8,6 +8,25 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## Il n'y a pas photo !	
+Après maintes hésitations, je me suis décidé quant à l'achat de mon appareil photo. N'ayant jusqu'à maintenant mon seul et très ancien téléphone, dont la qualité photographique est désastreuse, je voulais depuis un moment investir. J'ai donc décidé de passer mon argent dans le Sony RX100 II, un haut de gamme compact, afin de pouvoir faire des photos de qualité même par faible luminosité, ce qui est souvent le cas en Irlande... les photos qui vont suivre en témoignent.
+
+Voici donc les premières photos de Dublin que j'ai pu capturer avant l'inévitable averse.
+
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublin.jpg "River Liffey")
+La rivière Liffey sépare Dublin Sud (réputé pour être la partie riche de la ville), et Dublin Nord.
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinStreet.jpg "Rue temple bar de Dublin")
+Temple bar, qui comme son nom l'indique est une rue pavée, très touristique et animée qui propose plus d'une cinquantaine de pubs.
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/leprechaun.jpg  "Un leprechaun !!")
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/stStephensGreen.jpg "St Stephens Green")
+St Stephens Green, dont le nom vient d'une église en l'éfigie du saint de St Stephen, est un parc situé dans le centre de Dublin, aux pelouses très vertes. C'est un endroit idéal pour s'isoler de l'animation du centre ville.
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/stStephensGreenShoppingCenter.jpg  "St Stephens Green shopping center")
+Magnifique centre commercial en face du parc lui ayant donné son nom, ce lieu a été un des premier lieu de concert du groupe de rock Dublinois, U2.
+
+
+J'ai l'espoir de pouvoir vous proposer sous peu des photos sous le soleil !
+
+
 ## Une conduite un peu gauche !
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/onRouleAGauche.jpg)
