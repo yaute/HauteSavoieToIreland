@@ -16,7 +16,8 @@ Prenons par exemple le château de la ville, datant du médiéval (XIème siècl
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinCastle.jpg)
 
-![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/kingJohn.jpg "Roi Jean")
+<div style="text-align:center"><img src ="https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/kingJohn.jpg" alt="Roi Jean"/></div>
+
 
 ## Petit déjeuner traditionnel Irlandais, un régal !
 Samedi matin, alors que le soleil a pointé son nez (pour une courte période malheursement), je me suis enfin décidé à tenter le fameux petit déjeuner irlandais, dans la touristique rue de Temple Bar (c'est la seule chose qu'on puisse y faire en dehors de s'assoir dans un pub). Ainsi, accompagné d'un thé, j'ai pu apprécier une assiette fraichement garnie d'œufs brouillés, de bacon et saucisses, de pudding grillé blanc et noir, de tomates et pommes de terres également grillées, le tout accompagné de toasts. Je vous laisse imaginer l'odeur de l'assiette encore toute chaude, que je me suis empressé de déguster. Compter environ 10€ pour le tout dans le quartier touristique.  
