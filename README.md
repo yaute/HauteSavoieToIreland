@@ -8,6 +8,27 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## Une semaine à Dublin, déjà !
+Comme tout blogueur en voyage, voici le moment venu de faire un bilan sur la première semaine et de m'étonner sur la rapidité des événements passés. Ainsi, j'ai pu découvrir rapidement le centre-ville, réaliser les quelques démarches administratives impératives, à savoir l'obtention d'un PPS (Personal Public Service) number, l'équivalent du numéro de sécurité sociale en France. J'ai pu d'ailleurs avoir la chance d'avoir été accompagné par une conseillère qui a pris le soin de rédiger pour moi les différents documents ainsi que d'avoir pris rendez-vous auprès de l'administration. Cela m'a permis d'éviter une queue de plusieurs heures au bureau de la protection sociale. J'ai pu ouvrir un compte bancaire dans la foulée auprès d'une banque partenaire à mon entreprise.
+
+Mes premières impressions sont que Dublin est une ville très animée. Il n'y a aucun moment dans la journée ou les rues sont vides et silencieuses. Beaucoup de mouvement donc, mais dans la joie et la bonne humeur, et dans une ambiance musicale venant des artistes de rue ou des pubs. Dublin n'a rien à envier à Paris niveau bâtiments touristiques, mais quelques bâtiments et monuments rappellent l'histoire assez conséquente de la ville, depuis l'arrivée du christianisme grâce à St Patrick, l'invasion des Viking, et les différents moments qui ont menés à l'indépendance de la ville.
+Prenons par exemple le château de la ville, datant du médiéval (XIème siècle), construit par le roi Jean d'Angleterre, celui qui a inspiré le personnage dans Robin des Bois, qui témoigne des différents âges traversés par la ville. En effet, de sa construction initiale, seule la tour principale (dont les murs sont épais de 4.6m !) date de la construction initiale. S'en suit une chapelle construite pendant la période gothique, le bâtiment central reconstruit en luxueux palace géorgien après un incendie dévastateur en 1684, et la partie inférieure du château, reconstruite en couleurs vives, faisant penser à une construction en Lego… Voici la photo de l'édifice, sous un ciel bleu s'il vous plait !
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinCastle.jpg)
+
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/kingJohn.jpg Roi Jean)
+
+## Petit déjeuner traditionnel Irlandais, un régal !
+Samedi matin, alors que le soleil a pointé son nez (pour une courte période malheursement), je me suis enfin décidé à tenter le fameux petit déjeuner irlandais, dans la touristique rue de Temple Bar (c'est la seule chose qu'on puisse y faire en dehors de s'assoir dans un pub). Ainsi, accompagné d'un thé, j'ai pu apprécier une assiette fraichement garnie d'œufs brouillés, de bacon et saucisses, de pudding grillé blanc et noir, de tomates et pommes de terres également grillées, le tout accompagné de toasts. Je vous laisse imaginer l'odeur de l'assiette encore toute chaude, que je me suis empressé de déguster. Compter environ 10€ pour le tout dans le quartier touristique.  
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/irishBreakfast.jpg)
+
+Ainsi, l'expérience valait le coup, mais l'assiette se vide très vite, trop vite. Je m'orienterais plutôt vers un Brunch (également très populaire à Dublin) pour mes prochains petits déjeuners en extérieur. On pourrait confondre petit déjeuner irlandais et Brunch (dont le mot vient de la concaténation de breakfast et lunch). Mais le petit déjeuner irlandais sera peut-être moins copieux ,étant donné que le second a pour but de remplacer deux repas. Un brunch sera également plus diversifié, et pourra contenir du sucré.
+
+Je tiens également à vous faire profiter de l'étalage de délicieux "scones", ces petits pains britanniques et cakes sur la place du marché.
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinMarket.jpg)
+
 ## Il n'y a pas photo !	
 Après maintes hésitations, je me suis décidé quant à l'achat de mon appareil photo. N'ayant jusqu'à maintenant mon seul et très ancien téléphone, dont la qualité photographique est désastreuse, je voulais depuis un moment investir. J'ai donc décidé de passer mon argent dans le Sony RX100 II, un haut de gamme compact, afin de pouvoir faire des photos de qualité même par faible luminosité, ce qui est souvent le cas en Irlande... les photos qui vont suivre en témoignent.
 
@@ -17,7 +38,7 @@ Voici donc les premières photos de Dublin que j'ai pu capturer avant l'inévita
 La rivière Liffey sépare Dublin Sud (réputée pour être la partie riche de la ville), et Dublin Nord.
 
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinStreet.jpg "Rue temple bar de Dublin")
-Temple bar, qui comme son nom l'indique est une rue pavée, très touristique et animée qui propose plus d'une cinquantaine de pubs.
+Temple bar, qui comme son nom l'indique, est une rue pavée, très touristique et animée qui propose plus d'une cinquantaine de pubs.
 
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/leprechaun.jpg  "Un leprechaun !!")
 
