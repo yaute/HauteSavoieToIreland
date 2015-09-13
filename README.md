@@ -41,7 +41,7 @@ La rivière Liffey sépare Dublin Sud (réputée pour être la partie riche de l
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinStreet.jpg "Rue temple bar de Dublin")
 Temple bar, qui comme son nom l'indique, est une rue pavée, très touristique et animée qui propose plus d'une cinquantaine de pubs.
 
-![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/leprechaun.jpg  "Un leprechaun !!")
+<img src="https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/leprechaun.jpg" rotate="90" alt=""Un leprechaun !!">
 
 ![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/stStephensGreen.jpg "St Stephens Green")
 St Stephens Green est un parc dont le nom vient d'une église en l'éfigie du saint St Stephen, présente avant que le parc la remplace. Celui ci est situé au centre de Dublin. Avec son plan d'eau ses pelouses d'un vert écarlates taillés au milimètre près, ce parc est un endroit idéal pour s'isoler de l'animation du centre ville.
