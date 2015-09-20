@@ -8,6 +8,20 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## 13.109375 miles ! 
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathon.jpg)
+
+Ce samedi s'est déroulé le semi marathon de Dublin, dans le Phoenix Park. De ses 11km de longueur (ce qui fait de lui le second plus grand parc citadain d'Europe, après le Sutton Park à Birmingham en Grande-Bretagne), le parc était l'endroit idéal pour un tel événement. Ainsi, près de 6500 coureurs se sont élancés, dont moi même pour une course de 13 miles, soit 21.0975km. Et oui, tout au long du chemin, les distances étaient indiquées en miles, dont la distance globale était pour moi une inconnue, étant donné que je ne connaissais pas le taux de conversion. Ainsi, le mile (à ne pas confondre avec le mile nautique, qui correspond à une minute d'arc de méridien), correspond à 1.609344km.
+
+
+L'organisation de l'évènement était irréprochable. Les coureurs ont pu bénéficier d'une séance d'échauffement, d'un départ en deux vagues pour éviter un afflux de coureur trop important, des boissons ont été distribuées tout au long du parcours, ainsi qu'à l'arrivée. Cette dernière, sous les applaudissements du public très enthousiaste, était également pour les courreurs l'occasion de se voir remettre un pack contenant le T-shirt de finisher, une médaille, et quelques rudiments de nourriture pour reprendre des forces après l'exercice. Une séance d'étirement a même été prévue pour faire renaitre les coureurs de leurs cendres (pour comprendre la blague, se référer au nom du park :p).
+J'ai ainsi beaucoup apprécié la course, un temps correct était au rendez vous, et mon temps pour l'épreuve était lui même très satisfaisant (1h42min), bien mieux que les 1h50 que j'espérais !
+
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathonStretching.jpg)
+
+
 ## Une semaine à Dublin, déjà !
 Comme tout blogueur en voyage, voici le moment venu de faire un bilan sur la première semaine et de m'étonner sur la rapidité des événements passés. Ainsi, j'ai pu découvrir rapidement le centre-ville, réaliser les quelques démarches administratives impératives, à savoir l'obtention d'un PPS (Personal Public Service) number, l'équivalent du numéro de sécurité sociale en France. J'ai eu la chance d'avoir été accompagné par une conseillère qui a pris soin de rédiger pour moi les différents documents ainsi que d'avoir pris rendez-vous auprès de l'administration. Cela m'a permis d'éviter une queue de plusieurs heures au bureau de la protection sociale. J'ai pu ouvrir un compte bancaire dans la foulée.
 
