@@ -12,14 +12,14 @@ Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathon.jpg)
 
-Ce samedi s'est déroulé le semi marathon de Dublin, dans le Phoenix Park. De ses 11km de longueur (ce qui fait de lui le second plus grand parc citadain d'Europe, après le Sutton Park à Birmingham en Grande-Bretagne), le parc était l'endroit idéal pour un tel événement. Ainsi, près de 6500 coureurs se sont élancés, dont moi même pour une course de 13 miles, soit 21.0975km. Et oui, tout au long du chemin, les distances étaient indiquées en miles, dont la distance globale était pour moi une inconnue, étant donné que je ne connaissais pas le taux de conversion. Ainsi, le mile (à ne pas confondre avec le mile nautique, qui correspond à une minute d'arc de méridien), correspond à 1.609344km.
+Ce samedi s'est déroulé le semi marathon de Dublin, dans le Phoenix Park. De ses 11km de longueur (ce qui fait de lui le second plus grand parc citadain d'Europe, après le Sutton Park à Birmingham en Grande-Bretagne), le parc était l'endroit idéal pour un tel événement. Ainsi, près de 6500 coureurs de tous âges, et toutes nationnalités, se sont élancés, dont moi-même, pour une course de 13 miles, soit 21.0975km. Et oui, tout au long du chemin, les distances étaient indiquées en miles. Ainsi la distance globale était pour moi une inconnue, étant donné que je ne connaissais pas le taux de conversion. Pour information, le mile (à ne pas confondre avec le mile nautique, qui correspond à une minute d'arc de méridien), correspond à 1.609344km.
 
 
 L'organisation de l'évènement était irréprochable. Les coureurs ont pu bénéficier d'une séance d'échauffement, d'un départ en deux vagues pour éviter un afflux de coureur trop important, des boissons ont été distribuées tout au long du parcours, ainsi qu'à l'arrivée. Cette dernière, sous les applaudissements du public très enthousiaste, était également pour les courreurs l'occasion de se voir remettre un pack contenant le T-shirt de finisher, une médaille, et quelques rudiments de nourriture pour reprendre des forces après l'exercice. Une séance d'étirement a même été prévue pour faire renaitre les coureurs de leurs cendres (pour comprendre la blague, se référer au nom du park :p).
-J'ai ainsi beaucoup apprécié la course, un temps correct était au rendez vous, et mon temps pour l'épreuve était lui même très satisfaisant (1h42min), bien mieux que les 1h50 que j'espérais !
+J'ai ainsi beaucoup apprécié la course, un temps correct était au rendez-vous, et mon temps pour l'épreuve était lui même très satisfaisant (1h42min), bien mieux que les 1h50 que j'espérais !
 
 
-![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathonStretching.jpg)
+![alt text](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathonStretching.jpg "Séance d'étirements")
 
 
 ## Une semaine à Dublin, déjà !
