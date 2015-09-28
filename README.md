@@ -8,6 +8,26 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## Cliffs of Moher
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/cliffsOfMoher.jpg)
+
+Réveil à 5h15 dimanche matin pour ma première sortie hors de Dublin. Une heure et demi plus tard, me voici, avec trois autres collègues dans un bus pour le Cliffs of Moher. Il nous faudra traverser toute l'irlande pour rejoindre la côte Ouest et apprécier les magnifiques paysages offerts par l'océan atlantique.
+L'occasion pour nous de faire quelqus arrêts stratégiques ainsi que découvrir l'intérieur du pays, ses étendues vertes entretenues par les moutons et autres chevaux.
+
+
+Le premier arrêt sera Moneygall, qui est la ville ayant acceilli non seulement les ancetres lointains d'Obama avant que ceux-ci aient migrés aux Etats Unis, mais également Obama lui-même en 2011. Autant dire que la ville a été transformée pour l'occasion. Des drapeaux américains flottent à tous les coins de rue, certaines places ont été renommées au nom du président, ainsi que les enseignes d'une majeur partie des pubs/restaurants. 
+Le deuxième arrêt sera Limerick, avec une très belle vue sur le Chateau du Roi Jean d'Angleterre (toujours le même), avant d'arriver sur les lieux du Cliff. 
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/kingJohnCastle.jpg)
+Certainement un des lieu les plus visité d'Irlande (plus d'un million de visiteurs par ans) après Dublin le Cliffs of Moher offre une vue imprenable sur l'océan atlantique, perché à une hauteur de plus de 200m. Le paysage a été lieu de tournage d'un certain nombre de films, dont Harry Potter, le prince du sang melé. 1h30 nous sont laissées pour nous promener en bord de falaise, l'opportunité de faire un certain nombre de photos, et de profiter de la vue avant que le ciel ne se couvre. Un chemin de randonnée sur 8km borde l'océan, mais étant donné le temps imparti pour nous, nous n'avons pu faire qu'une infime partie du tracé. 
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/wildIreland.jpg)
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/irishTourBus.jpg)
+La suite du voyage nous a mené dans le village de Doolin pour une pause repas, où nous avons pu profiter d'un repas typique, à savoir, saumon, pomme de terres, choux et carottes. Un dernier arrêt en bordure d'océan nous est laissé avant de rejoindre les terres pour nous rendre à l'abbaye de Corcomroe, aujourd'hui en ruine. Cette pause est l'occasion pour nous de profiter d'un environnement des plus paisible, entourés de pelouses vertes, et dominés par les montagnes très pierreuses du massif de Burren. Le dernier arrêt sera dans le village portuaire Kinvara, également très calme, à partir duquel nous pouvons observer le chateau Dunguaire, très bien conservé.
+
+Ainsi, nous revoilà à la capitale après 12h de voyage, 530km, 130 photos, de nombreuses anecdotes racontées par le chauffeur, et de très bon souvenirs.
+
+
 ## 13.109375 miles ! 
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathon.jpg)
