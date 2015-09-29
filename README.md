@@ -28,6 +28,9 @@ La suite du voyage nous a mené dans le village de Doolin pour une pause repas, 
 Ainsi, nous revoilà à la capitale après 12h de voyage, 530km, 130 photos, de nombreuses anecdotes racontées par le chauffeur, et de très bon souvenirs.
 
 
+Voici une carte du trajet parcouru: 
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/cliffsOfMoherMap.jpg)
+
 ## 13.109375 miles ! 
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathon.jpg)
