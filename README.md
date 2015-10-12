@@ -10,6 +10,7 @@ Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de
 
 # "Today is the day for this team"
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/franceVsIreland.jpg)
+
 Les journaux locaux étaient à l'unisson dimanche matin. A 17h heure locale s'est joué LE match tant attendu depuis décembre 2012, date des tirages au sort. Le match ? C'est la question à ne pas poser ici. On parle de Rugby bien sûr, en plein contexte de coupe du monde. Le Rugby est un des sports les plus populaires sur l'ile, et c'est tout le pays qui a retenu son souffle pendant 80min à partir de 17h heure locale. 
 
 Vêtus du T-shirt de l'équipe nationale où dans le pire des cas de vêtements verts pour les moins engagés, toute l'Irlande s'est donnée rendez vous dans les différents pubs du pays, qui ont renouvelé leur équipement télévisé pour l'occasion. Il n'est pas rare de voir quatre, cinq écrans géants dans un même pub, parfois même côte à côté ! 
