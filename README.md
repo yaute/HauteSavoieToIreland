@@ -9,6 +9,9 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
 # "Today is the day for this team"
+
+*12/10/15*
+
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/franceVsIreland.jpg)
 
 Les journaux locaux étaient à l'unisson dimanche matin. A 17h heure locale s'est joué LE match tant attendu depuis décembre 2012, date des tirages au sort. Le match ? C'est la question à ne pas poser ici. On parle de Rugby bien sûr, en plein contexte de coupe du monde. Le Rugby est un des sports les plus populaires sur l'ile, et c'est tout le pays qui a retenu son souffle pendant 80min à partir de 17h heure locale. 
@@ -23,12 +26,18 @@ L'ambiance était au rendez-vous, même si elle devait être bien plus festive d
 
 
 ## East Coast !
+
+*7/10/15*
+
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/killiney.jpg)
 Premier déplacement sur la côte Est, au Sud de Dublin ce week end. Nous avons pu grâce à une ligne de train appelée DART (Dublin Area Rapid Transit), au départ de Dublin, nous rendre sur les bords la mer d'Irlande. La ligne suit la côte et propose une vue privilégiée sur les bords de mer très différents au fur et à mesure que le train progresse. De grandes étendues de sable aux bords rocheux (mini Cliffs), le paysage a l'avantage d'être assez varié. C'est à Killiney que nous nous sommes arrêtés. Une plage de sable s'offre à nous à quelques mètres de l'arrêt, l'occasion de pouvoir prendre la température de l'eau et faire quelques ricochets. Le temps est très grisonnant, et un vent frais nous pousse à entamer une promenages dans les hauteurs proches du village. Cette marche nous permet d'avoir une vue prenante sur la baie. Malheureusement, ayant oublié de rechargé mon appareil photo, je n'ai pas pu capturer le paysage à partir de notre ascension. 
 
 L'endoit étant tout de même plutôt désert nous sommes rentrés sur Dublin pour profiter d'un repas typique (Délicieux beef, sauce Guiness), dans un des pubs traditionnels de la ville avec un verre de Guiness.
 
 ## Cliffs of Moher
+
+*28/09/15*
+
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/cliffsOfMoher.jpg)
 
 Réveil à 5h15 dimanche matin pour ma première sortie hors de Dublin. Une heure et demi plus tard, me voici, avec trois autres collègues dans un bus pour le Cliffs of Moher. Il nous faudra traverser toute l'irlande pour rejoindre la côte Ouest et apprécier les magnifiques paysages offerts par l'océan atlantique.
@@ -53,6 +62,8 @@ Voici une carte du trajet parcouru:
 
 ## 13.109375 miles ! 
 
+*20/10/15*
+
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/halfMarathon.jpg)
 
 Ce samedi s'est déroulé le semi marathon de Dublin, dans le Phoenix Park. De ses 11km de longueur (ce qui fait de lui le second plus grand parc citadain d'Europe, après le Sutton Park à Birmingham en Grande-Bretagne), le parc était l'endroit idéal pour un tel événement. Ainsi, près de 6500 coureurs de tous âges, et toutes nationnalités, se sont élancés, dont moi-même, pour une course de 13 miles, soit 21.0975km. Et oui, tout au long du chemin, les distances étaient indiquées en miles. Ainsi la distance globale était pour moi une inconnue, étant donné que je ne connaissais pas le taux de conversion. Pour information, le mile (à ne pas confondre avec le mile nautique, qui correspond à une minute d'arc de méridien), correspond à 1.609344km.
@@ -66,6 +77,9 @@ J'ai ainsi beaucoup apprécié la course, un temps correct était au rendez-vous
 
 
 ## Une semaine à Dublin, déjà !
+
+*13/09/15*
+
 Comme tout blogueur en voyage, voici le moment venu de faire un bilan sur la première semaine et de m'étonner sur la rapidité des événements passés. Ainsi, j'ai pu découvrir rapidement le centre-ville, réaliser les quelques démarches administratives impératives, à savoir l'obtention d'un PPS (Personal Public Service) number, l'équivalent du numéro de sécurité sociale en France. J'ai eu la chance d'avoir été accompagné par une conseillère qui a pris soin de rédiger pour moi les différents documents ainsi que d'avoir pris rendez-vous auprès de l'administration. Cela m'a permis d'éviter une queue de plusieurs heures au bureau de la protection sociale. J'ai pu ouvrir un compte bancaire dans la foulée.
 
 Mes premières impressions sont que Dublin est une ville très animée. Il n'y a aucun moment dans la journée où les rues sont vides et silencieuses. Beaucoup de mouvement donc, mais dans la joie et la bonne humeur, et dans une ambiance musicale venant des artistes de rue ou des pubs. Dublin n'a rien à envier à Paris niveau bâtiments touristiques, mais quelques édifices et monuments rappellent l'histoire assez conséquente de la ville, depuis l'arrivée du christianisme grâce à St Patrick, l'invasion des Vikings, et les différents moments qui ont menés à l'indépendance de la ville.
@@ -77,6 +91,9 @@ Prenons par exemple le château de la ville, datant du médiéval (XIème siècl
 
 
 ## Petit déjeuner traditionnel Irlandais, un régal !
+
+*13/09/15*
+
 Samedi matin, alors que le soleil a pointé son nez (pour une courte période malheursement), je me suis enfin décidé à tenter le fameux petit déjeuner irlandais, dans la touristique rue de Temple Bar (c'est la seule chose qu'on puisse y faire en dehors de s'assoir dans un pub). Ainsi, accompagné d'un thé, j'ai pu apprécier une assiette fraichement garnie d'œufs brouillés, de bacon et saucisses, de pudding grillé blanc et noir, de tomates et pommes de terres également grillées, le tout accompagné de toasts. Je vous laisse imaginer l'odeur de l'assiette encore toute chaude, que je me suis empressé de déguster. Compter environ 10€ pour le tout dans le quartier touristique.  
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/irishBreakfast.jpg)
@@ -88,6 +105,9 @@ Je tiens également à vous faire profiter de l'étalage de délicieux "scones",
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/dublinMarket.jpg)
 
 ## Il n'y a pas photo !	
+
+*11/09/15*
+
 Après maintes hésitations, je me suis décidé quant à l'achat de mon appareil photo. N'ayant jusqu'à maintenant mon seul et très ancien téléphone, dont la qualité photographique est désastreuse, je voulais investir depuis un moment. J'ai donc décidé de passer mon argent dans le Sony RX100 II, un haut de gamme compact, afin de pouvoir faire des photos de qualité même par faible luminosité, ce qui est souvent le cas en Irlande... les photos qui vont suivre en témoignent.
 
 Voici donc les premières photos de Dublin que j'ai pu capturer avant l'inévitable averse.
@@ -114,6 +134,8 @@ J'ai l'espoir (l'espoir fait vivre :p) de pouvoir vous proposer sous peu des pho
 
 ## Une conduite un peu gauche !
 
+*06/09/15*
+
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/onRouleAGauche.jpg)
 
 Ayant été pendant très longtemps sous l'influence britannique, l'Irlande fait partie des quelques pays dont la conduite se fait à gauche. Le premier rappel est effectué à la sortie de l'aéroport afin de sensibiliser les voyageurs attendant leur bagage.
@@ -130,6 +152,8 @@ Je n'ai pas encore eu l'occasion de conduire moi-même en voiture, mais malgré 
 
 
 ## "Mes chers parents je vole…"
+
+*03/09/15*
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/depart.jpg)
 
@@ -149,14 +173,21 @@ J'arrive à Dublin sans encombre, sous un temps <s>radieux</s> très couvert. Da
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/preparatifs.jpg)
 
+*02/09/15*
+
 Bénéficiant de 10kg pour le bagage à main et 20kg pour son homologue en soute, une course aux kilogrammes est engagée. Ainsi, en gardant un œil sur la balance, je me rends compte que je suis très vite limité, malgré le "peu" de bagages que je souhaite emporter. Bien heureusement tous les objets sacrifiés pourront être transportés par l'entreprise responsable du packaging de mes affaires, dans un camion prévu à cet effet pour qui aura pour destination mon logement final. 
 
 
 ## "May your relocalisation be as smooth as possible"
+
+*01/09/15*
+
 Que votre relocalisation soit aussi agréable que possible. Tels sont les mots de ma conseillère qui orchestrera ma relocalisation, c’est-à-dire de l'organisation de toutes les étapes de mon voyage depuis mon petit village de Haute Savoie à mon logement final à Dublin. A savoir, la planification de mon voyage, du transport de mes affaires personnelles, l'obtention d'un logement temporaire à mon arrivée, ainsi que pléthores de conseils sur les taxes, la vie à Dublin, les démarches administratives à effectuer… Un "relocalisation package" exceptionnel, tous frais payés par l'entreprise ! Ainsi, trois semaines avant mon départ je suis contacté par plusieurs conseillers pour chacun des services proposés. Ceux si sont très disponibles et permettent de répondre à toutes mes interrogations quant à l'organisation de mon départ. Ainsi j'apprends avec tristesse que mon jet privé, mes véhicules agricoles ou mes tableaux artistiques de haute valeur ne pourront pas être déménagés aux frais de l'entreprise, mais que je pourrais bénéficier de prêts à taux compétitifs si je souhaite acheter une résidence à mon arrivée…(ce qui n'est bien sûr pas applicable dans mon cas). Les seuls préparatifs laissés à ma charge seront donc le remplissage de mes bagages ! 
 
 
 ## Passeport s'il vous plait !
+
+*30/08/15*
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/passeport.jpg)
 
@@ -165,6 +196,8 @@ L'Irlande étant dans l'espace Schengen , qui garantit le libre échange des hom
 N'allant pas me laisser abattre de suite, je me rends en urgence en mairie, après avoir laborieusement trouvé les pièces justificatives nécessaires, pour faire une demande prioritaire. Manque de chance, l'administration n'accepte pas les documents non français. Il m'a fallu expliquer en long en large et en travers ma situation auprès de plusieurs personnes et après plus d'une heure passée dans les bureaux, j'obtiens une pré-validation de ma demande de leur part, sous réserve de l'acceptation du centre régional. La fin est plutôt heureuse car le papier est finalement imprimé les jours suivants et a pu m'être délivré en un temps record pour l'administration française : quatre jours après ma demande. Je suis maintenant connu des services de la mairie étant donné que lors de la mise en main du papier, les personnes m'ont immédiatement reconnu, et ne m'ont pas demandé de pièce d'identité. Ouf, mon départ n'a finalement pas été reporté!
 
 ## L'Irlande, mais quelle idée ?!
+
+*29/08/15*
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/cliches.jpg)
 
