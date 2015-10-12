@@ -8,6 +8,19 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+# "Today is the day for this team"
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/franceVsIreland.jpg)
+Les journaux locaux étaient à l'unisson dimanche matin. A 17h heure locale s'est joué LE match tant attendu depuis décembre 2012, date des tirages au sort. Le match ? C'est la question à ne pas poser ici. On parle de Rugby bien sûr, en plein contexte de coupe du monde. Le Rugby est un des sports les plus populaires sur l'ile, et c'est tout le pays qui a retenu son souffle pendant 80min à partir de 17h heure locale. 
+
+Vêtus du T-shirt de l'équipe nationale ou dans le pire des cas de vêtements verts pour les moins passionnés, toute l'Irlande s'est donnée rendez vous dans les différents pubs du pays, qui ont renouvelé leur équipement télévisé pour l'occasion. Il n'est pas rare de voir quatre, cinq écrans géants dans un même pub, parfois même côte à côté ! 
+
+L'enjeux était de taille. Les deux équipes étaient dans le même groupe, et ont toutes les deux gagné tous les précédents matches. Ainsi, les deux équipes seront qualifiées pour la suite de la compétition, mais le vainqueur évitera de jouer contre la Nouvelle Zélande, incontestable outsider. 
+
+Pour ma part, vêtu de bleu, je suis allé supporter la France dans un bar (immense) spécialement dédié pour les français. Pour la petite anecdote, le pub était dans l'enceinte d'une ancienne église (voir photo), qui a d'ailleurs recu le mariage d'Arthur Guiness, fondateur de la fameuse bière. Il parait que c'est normal ici ! Ainsi, un comptoir à boissons était tenu au centre de l'église, juste au dessous de l'orgue. 
+
+L'ambiance était au rendez-vous, même si elle devait être bien plus festive dans les pubs acceuilant les locaux. Malgré tout, je vous laisse imaginer l'émotion dégagée par pas moins de 200 français chantant la Marseillaise ! Le match a très bien commencé pour la France, mais ne s'est malheureusement pas terminé par une victoire, grosse déception donc. Mais parfois il vaut mieux se contenter d'une petite défaite pour mieux revenir. Si les deux équipes gagnent tous leurs matches, la finale se verra de la même affiche ! A suivre !
+
+
 ## East Coast !
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/killiney.jpg)
 Premier déplacement sur la côte Est, au Sud de Dublin ce week end. Nous avons pu grâce à une ligne de train appelée DART (Dublin Area Rapid Transit), au départ de Dublin, nous rendre sur les bords la mer d'Irlande. La ligne suit la côte et propose une vue privilégiée sur les bords de mer très différents au fur et à mesure que le train progresse. De grandes étendues de sable aux bords rocheux (mini Cliffs), le paysage a l'avantage d'être assez varié. C'est à Killiney que nous nous sommes arrêtés. Une plage de sable s'offre à nous à quelques mètres de l'arrêt, l'occasion de pouvoir prendre la température de l'eau et faire quelques ricochets. Le temps est très grisonnant, et un vent frais nous pousse à entamer une promenages dans les hauteurs proches du village. Cette marche nous permet d'avoir une vue prenante sur la baie. Malheureusement, ayant oublié de rechargé mon appareil photo, je n'ai pas pu capturer le paysage à partir de notre ascension. 
