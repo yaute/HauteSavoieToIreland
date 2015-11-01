@@ -8,7 +8,32 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
-# "Today is the day for this team"
+# Koi 2 9
+
+*01/11/15*
+
+Presque un mois que je n'ai pas écrit, le temps passe vite. J'aurais des pages à raconter, mais je garde cela pour plus tard. Je vais me concentrer sur les nouvelles récentes de ce week end. 
+
+### Coupe du monde de rugby !
+La coupe du monde de rugby. Les pubs étaient bondés ce samedi après midi. Il fallait faire la queue pour rentrer dans certains, en particulier quelques bars plus australiens ou néo zélandais.  Mais malgré tout l'ambiance n'était pas la même que si l'Irlande jouait. Très peu de T-Shirts de rugby visibles dans la ville, comparé à la marée verte visible les jours de matches des locaux, et moins d'enthousiaste lors du match.
+
+### Halloween ! 
+Halloween est l'évènement du mois d'octobre à Dublin! Toutes les boutiques sont décorées 15 jours à l'avance, des soirées déguisées sont organisées dans tous les pubs... Le jour J, les rues se transforment en déambilation de vampires, zombies, mais aussi de déguisements en tout genres : requins, Mickey... Les barmans et autres vendeurs jouent également le jeu et sont pour la plupart eux mêmes déguisés. Le soir même, des feux d'artifices sont lancés un peu partout. Bref, il y a pour le 31 octobre plus d'ambiance dans Dublin que dans beaucoup de villes francaises pour le nouvel an!
+
+### Petite virée sportive
+Ce week end a été marqué par un autre événement de taille à Dublin, qui restera peut être dans les annales : nous avons bénéficié d'une journée de 1er Novembre ensoleillée comme jamais. Même l'été ne produit pas de si belles journées. Un soleil radieux du lever au coucher du soleil, une température avoisinnant les 23°C, et pas de vent. Ainsi, pour bien terminer week end, et pour honorer ce temps exceptionnel, je me suis organisé un déplacement en vélo sur la côté en direction du sud de Dublin. Je suis donc allé à Bray, un petit village côtier typique à 20km de chez moi, à partir duquel j'ai pu faire une rapide randonnée, sur un petit mont surplombant la mer d'Irlande. Petite nostalgie de nos montagnes alpines, quand la montée s'est terminée au bout de moins de 20 minutes (en au pas de course).
+
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/BrayMont.jpg)
+
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/BrayMont2.jpg)
+
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/DakleyIsland.jpg)
+
+
+## "Today is the day for this team"
 
 *12/10/15*
 
