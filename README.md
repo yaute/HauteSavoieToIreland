@@ -8,6 +8,16 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+# On dirait le sud...
+
+*10/11/15*
+
+Ce week end, j'ai mis le cap direction le sud du pays, à 2h30 en car de la capitale. J'ai pu rencontrer des amis français qui logent temporairement à Waterford. Première ville créée en Irlande, , construite par les Viking lors de leur débarquement dans les années 853, la ville gardera plusieurs marques de cette invation. Une tour nommée "Tour de Reginald", une place, le "Viking triangle", dont fait partie cette tour ainsi quelques drakkar ont été conservés ou reconstitués, en mémoire de la présence de ce peuple. La ville est également siège d'une fabrique de cristal très artisannale, vendu mondialement et très apprécié et reconnu pour sa qualité. Malheureusement, la fabrique étant fermée le week end, je n'ai pas pu bénéficier d'une visite, mais la boutique ouverte 7j/7 permet d'avoir un apercu de quelques pièces soufflées/moulé/gravé assez impresionnantes. De plus Waterford est très proche de la mer celtique, et nous avons pu profiter d'un magnigique couché de soleil dans le village de Tramore, une des plus grosse station balnéaire du pays, qui possède une plage de sable fin, ainsi que des vagues assez intéressantes pour les surfers. Encore une fois, je suis surpris par le côté naturel du paysage, ou la verdure est omniprésente : un vrai dépaysement ! A noter également un temps extremement changeant qui est passé de la pluie battante, au soleil en un rien de temps.
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/Tramore.jpg)
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/Tramore2.jpg)
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/Tramore3.jpg)
+
 # Koi 2 9
 
 *01/11/15*
