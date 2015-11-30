@@ -8,21 +8,32 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
-# "   "
+
+## "Que la montagne est belle..."
+
+*30/11/15*
+
+Qui aurait pu s'imaginer que je reverrais mes exigences à la baisse pour qualifier les colines de Dublin de "montagnes". Mais c'est bel et bien leur dénomination. Elevées à 440m d'altitude, elles dominent la baie de Dublin, et sont visible d'à peu près partout étant donné du relif plat. M'y avanturer a été une première cette semaine, et pour le moins une agréable surprise. Pas de chant d'hirondelle, mais au sommet, une vue imprenable sur Dublin et sa côte est à découvrir à la suite d'une ascension, courte à mon gout. Pour les pietons, les VTT qui bénéficient de chemins tout fraichement aménagés, leur étant réservés, ou même les vélos de routes, puisqu'un chemin d'asphalte joint le point de vue, cet endroit est le rendez vous idéal des Dublinois en recherche d'un coin de nature. Autant dire, ceux qui refusent de passer leur après-midi (entière) dans un pub. Le seul regrêt est la présence de toutes les antennes bombardant Dublin d'ondes: radio/télé/mobiles.
+
+Je n'ai pas de photo du sommet à proposer. En effet, étant donné du temps, je n'ai pas jugé utile de prendre mon appareil photo. Grave erreur ! Les dégradés de nuages du blanc au noir menacant donnaient une teinture de calme temporaire, qui aurait fait du plus bel effet. Pour me rattraper j'ai pris une photo de la valléee que voici, juste avant la violente averse, avec la promesse de prenre mon appareil lors ma prochaine randonnée. 
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/DublinMountains.jpg)
+
+## "   "
+
 *15/11/15*
 
 ![alt](http://www.irishtimes.com/polopoly_fs/1.2430738.1447529458!/image/image.jpg_gen/derivatives/box_620_330/image.jpg)
 Image IrishTime.ie
 
-Pas de titre pour cet article, car il n'y a pas de mot pour décrir ce qui s'est passé à Paris la nuit dernière : plus de 130 morts et 300 blessés... Quelques statistiques, la dernière attaque parisienne faisait un bilan de 17 morts et 22 blessés. Quel sera l'impact de la prochaine attaque ? 
+Pas de titre pour cet article, car il n'y a pas de mot pour décrire ce qui s'est passé à Paris la nuit dernière : plus de 130 morts et 300 blessés... Quelques statistiques, la dernière attaque parisienne faisait un bilan de 17 morts et 22 blessés. Quel sera l'impact de la prochaine attaque ? 
+
+A Dublin, se sont rassemblés près de 4000 francais, dublinois, touristes, hommes, femmes, chrétiens, juifs, musulmans, de toutes couleurs de peau, roux, bruns, blonds, petits grands, gros, ... je pourais continuer cette liste sans fin, la langue française est très riche en vocabulaire pour décrire/juger les gens. Rassemblés, malgré le mauvais temps, malgré les différentes opinions pour une marche silencieuse. Une marche au travers de laquelle, un immense sentiment de tristesse, d'impuissance se faisait ressentir. Pourquoi tuer ? Pourquoi tuer pour des idéologies ? La marseillaise a tristement rententi plusieurs fois pendant le défilé, ainsi que quelques vagues d'applaudissements, mais que faire d'autre... 
+
+Une des meilleure choses que nous pouvons espérer après ce massacre, est que cet évènement ne contribue pas à l'augmentation de la haine envers les étrangers, en particulier les musulmans, puisque c'est en partie l'effet escompté, car les personnes revandiquants ces attentats sont certes dans cette catégorie, mais nous ne pouvons pas faire de généralité aussi facilement. J'espère que tous ceux qui sont sur Paris en ce moment vont très vite pouvoir reprendre un quotidien tranquille.
 
 
-A Dublin, se sont rassemblés près de 4000 francais, dublinois, touristes, hommes, femmes, chrétiens, juifs, musulmans, de toutes couleurs de peau, roux, bruns, blonds, petits grands, gros, ... je pourais continuer cette liste sans fin, la langue française est très riche en vocabulaire pour décrire/juger les gens. Rassemblés, malgré le mauvais temps, malgré les différentes opinions pour une marche silencieuse. Une marche au travers de laquelle, un immense sentiment de tristesse, d'impuissance se faisait ressentir. Pourquoi tuer ? Pourquoi tuer pour des idéologies ? La marseillaise a tristement rententie plusieurs fois pendant le défilé, ainsi que quelques vagues d'applaudissements, mais que faire d'autre... 
-
-Une des meilleurs choses que nous pouvons espérer après ce massacre, est que cet évènement ne contribue pas à l'augmentation de la haine envers les étrangers, en particulier les musulmans, puisque c'est en partie l'effet escompté, car les personnes revandiquants ces attentats sont certes dans cette catégorie, mais nous ne pouvons pas faire de généralité aussi facilement. J'espère que tous ceux qui sont sur Paris en ce moment vont très vite pouvoir reprendre un quotidien tranquille.
-
-
-# On dirait le sud...
+## On dirait le sud...
 
 *10/11/15*
 
