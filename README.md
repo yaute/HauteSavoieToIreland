@@ -9,7 +9,7 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
 ## "Là bas au Connemara..."
-* 08/12/15 *
+*08/12/15*
 
 On dit que la vie c'est une folie ! Quel dépaysement que de passer une journée dans le Connemara (qui n'est le nom d'un lac comme pourraient le penser certains, mais le nom d'un parc national) ! Depuis le temps que la chanson de Michel Sardou me fait rêver de cette partie perdue du Nord-Ouest de l'Irlande, je peux maintenant mettre des images réels sur ces paroles. Le temps d'un dimanche, bien trop court malheureusement, mais sufisemment pour avoir le souffle coupé par la beauté de la nature. Une dominante de verdure extraordinaire, parsemée de lacs, pleines, collines. On dit qu'il y a plus de lacs que de jours dans l'année. Les gens y vivent principalement du tourisme, de la pêche et de l'élevage de moutons.
 
