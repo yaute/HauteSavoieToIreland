@@ -8,14 +8,54 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
+## "Là bas au Connemara..."
+* 08/12/15 *
+
+On dit que la vie c'est une folie ! Quel dépaysement que de passer une journée dans le Connemara (qui n'est le nom d'un lac comme pourraient le penser certains, mais le nom d'un parc national) ! Depuis le temps que la chanson de Michel Sardou me fait rêver de cette partie perdue du Nord-Ouest de l'Irlande, je peux maintenant mettre des images réels sur ces paroles. Le temps d'un dimanche, bien trop court malheureusement, mais sufisemment pour avoir le souffle coupé par la beauté de la nature. Une dominante de verdure extraordinaire, parsemée de lacs, pleines, collines. On dit qu'il y a plus de lacs que de jours dans l'année. Les gens y vivent principalement du tourisme, de la pêche et de l'élevage de moutons.
+
+Le déroulement de la journée, commencée à 6h de Dublin, est le suivant
+- Premier arrêt photo dans le parc après 3h30 de route
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/firstConnemaraView.jpg)
+
+- Arrivée au Fjord de Killary, une première fois pour moi de voir un Fjord, ces vallées remplies d'eau creusées par les glaciers, menant de la montagne à la mer; seul Fjord d'Irlande
+
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/killaryFjord.jpg)
+
+- Démonstration de contrôle d'un troupeau de mouton par un fermier local, qui sait diriger son fidel chien au mètre près
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/sheepsFjord.jpg)
+
+- Pause repas à l'abbaye de Kylemore, magnifique monument, toujours habité par une population de soeurs qui travaillent à la conception de produits cosmétiques naturels
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/kylemoreAbaye.jpg)
+
+- Découverte du processus de tourbe séchée le temps d'un arrêt, ces morceaux de terre riches en matière organique morte, utilisés pour le chauffage
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/tourbe.jpg)
+
+- Visite de la très jolie ville de Galway, ses rues typiques, très animées et son marché de Noël
+
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/galway.jpg)
+
+Un petit bémol vient de la tempête du doux nom de "Desmond", qui a frappé la région les jours précédents notre visite avant de se déplacer sur Dublin. Elle laisse derière elle des routes complètement innondées, des remoques à tracteurs renversées par des vents d'une rare violence ainsi que des foyers privés d'électricité. Un vrai paysage de calme après la tempête sur notre itinéraire qui n'a pas été le plus touché.
+
+Une remarque, la fameuse chanson de Michel Sardou a été écrite en France. Le chanteur n'étant jamais allé au Connemara avant d'écrire sa chanson. C'est au film L'Homme tranquille de John Ford que doit son inspiration.
+
+Bref, très belle journée, faire le plein de paysages et surtout de soleil, abscent depuis un certain temps en Irlande n'était pas du luxe ! (Même si les nuages noirs venant du nord nous ont sporadiquement arosés)
+
+Voici une carte du trajet parcouru:
+![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/connemaraMap.jpg)
+
 
 ## "Que la montagne est belle..."
 
 *30/11/15*
 
-Qui aurait pu s'imaginer que je reverrais mes exigences à la baisse pour qualifier les colines de Dublin de "montagnes". Mais c'est bel et bien leur dénomination. Elevées à 440m d'altitude, elles dominent la baie de Dublin, et sont visible d'à peu près partout étant donné du relif plat. M'y avanturer a été une première cette semaine, et pour le moins une agréable surprise. Pas de chant d'hirondelle, mais au sommet, une vue imprenable sur Dublin et sa côte est à découvrir à la suite d'une ascension, courte à mon gout. Pour les pietons, les VTT qui bénéficient de chemins tout fraichement aménagés, leur étant réservés, ou même les vélos de routes, puisqu'un chemin d'asphalte joint le point de vue, cet endroit est le rendez vous idéal des Dublinois en recherche d'un coin de nature. Autant dire, ceux qui refusent de passer leur après-midi (entière) dans un pub. Le seul regrêt est la présence de toutes les antennes bombardant Dublin d'ondes: radio/télé/mobiles.
+Qui aurait pu s'imaginer que je reverrais mes exigences à la baisse pour qualifier les colines de Dublin de "montagnes". Mais c'est bel et bien leur dénomination. Elevées à 440m d'altitude, elles dominent la baie de Dublin, et sont visibles d'à peu près partout étant donné le relief plat. M'y aventurer a été une première cette semaine, et pour le moins une agréable surprise. Pas de chant d'hirondelle, mais au sommet, une vue imprenable sur Dublin et sa côte que l'on peut découvrir à la suite d'une ascension, courte à mon gout. Pour les pietons, les VTT qui bénéficient de chemins tout fraichement aménagés, leur étant réservés, ou même les vélos de routes, puisqu'un chemin d'asphalte joint le point de vue, cet endroit est le rendez vous idéal des Dublinois en recherche d'un coin de nature. Autant dire, ceux qui refusent de passer leur après-midi (entière) dans un pub. Le seul regret est la présence de toutes les antennes bombardant Dublin d'ondes: radio/télé/mobiles.
 
-Je n'ai pas de photo du sommet à proposer. En effet, étant donné du temps, je n'ai pas jugé utile de prendre mon appareil photo. Grave erreur ! Les dégradés de nuages du blanc au noir menacant donnaient une teinture de calme temporaire, qui aurait fait du plus bel effet. Pour me rattraper j'ai pris une photo de la valléee que voici, juste avant la violente averse, avec la promesse de prenre mon appareil lors ma prochaine randonnée. 
+Je n'ai pas de photo du sommet à proposer. En effet, étant donné du temps, je n'ai pas jugé utile de prendre mon appareil photo. Grave erreur ! Les dégradés de nuages du blanc au noir menacents donnaient une teinture de calme temporaire, qui aurait fait du plus bel effet. Pour me rattraper j'ai pris une photo de la valléee que voici, juste avant la violente averse, avec la promesse de prenre mon appareil lors ma prochaine randonnée. 
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/DublinMountains.jpg)
 
@@ -33,7 +73,7 @@ A Dublin, se sont rassemblés près de 4000 francais, dublinois, touristes, homm
 Une des meilleure choses que nous pouvons espérer après ce massacre, est que cet évènement ne contribue pas à l'augmentation de la haine envers les étrangers, en particulier les musulmans, puisque c'est en partie l'effet escompté, car les personnes revandiquants ces attentats sont certes dans cette catégorie, mais nous ne pouvons pas faire de généralité aussi facilement. J'espère que tous ceux qui sont sur Paris en ce moment vont très vite pouvoir reprendre un quotidien tranquille.
 
 
-## On dirait le sud...
+## "On dirait le sud..."
 
 *10/11/15*
 
@@ -206,7 +246,7 @@ Ayant été pendant très longtemps sous l'influence britannique, l'Irlande fait
 
 (source Wikipedia)
 
-Quelques statistiques, 75 pays, principalement des ex-colonies britanniques (Hong Kong en fait partie, qui implique que la Chine est le seul pays au monde possédant deux sens, car le reste du pays roule à droite), roulent à gauche contre 161 à droite (pourcentage important, mais superficie plutôt faible comme on peut le voir sur la carte montrant en rouge les pays roulant à droite). Les raisons de l'existence de ces deux sens sont historiques. Lors de la période romaine, les chevalier se croisant, majoritairement droitiers, préféraient tenir de leur main droite leur épée, pour être prêts à attaquer un éventuel ennemi. Cela les poussaient donc à coller la gauche. Puis s'en sont venues les calèches, n'ayant pas de place pour le cocher, qui, pour mener les quatre chevaux s'asseyait généralement sur le cheval arrière gauche afin de pouvoir diriger de sa main droite le troupeau. Pour avoir une meilleure visibilité sur la route, ils conduiront alors à droite. Cela s'est ensuite répendu dans le monde, la conquête de Napoléon n'y est pas pour rien, puis finalement officialisé par la CONVENTION ON ROAD TRAFFIC de Genève en 1949, qui n'était pas au gout des anglais. 
+Quelques statistiques, 75 pays, principalement des ex-colonies britanniques (Hong Kong en fait partie, qui implique que la Chine est le seul pays au monde possédant deux sens, car le reste du pays roule à droite), roulent à gauche contre 161 à droite (pourcentage important, mais superficie plutôt faible comme on peut le voir sur la carte montrant en rouge les pays roulant à droite). Les raisons de l'existence de ces deux sens sont historiques. Lors de la période romaine, les chevalier se croisant, majoritairement droitiers, préféraient tenir de leur main droite leur épée, pour être prêts à attaquer un éventuel ennemi. Cela les poussaient donc à coller la gauche. Puis s'en sont venues les calèches, n'ayant pas de place pour le cocher, qui, pour mener les quatre chevaux s'asseyait généralement sur le cheval arrière gauche afin de pouvoir diriger de sa main droite le troupeau. Pour avoir une meilleure visibilité sur la route, ils conduiront alors à droite. Cela s'est ensuite répendu dans le monde, la conquête de Napoléon n'y est pas pour rien, puis finalement officialisé par la CONVENTION ON ROAD TRAFFIC de Genève en 1949, qui n'était pas au goût des anglais. 
 
 Je n'ai pas encore eu l'occasion de conduire moi-même en voiture, mais malgré cela, le changement nécessite une adaptation. En effet, étant piéton, et habitué aux routes parisiennes, j'ai pris l'habitude de traverser (n'importe où) avec prudence, mais surtout avec une certaine anticipation. Ainsi, à proximité d'une intersection je regarde au loin à gauche, puis à droite, mais sans généralement m'arrêter si le trafic n'est pas trop dense. Or dans les rues Irlandaises, cet automatisme doit être inversé, ce qui demande une grande prudence et parfois un peu de confusion. D'ailleurs, pour des raisons de sécurité le gouvernement a placé, sur les passages piétons des zones touristiques, une flèche indiquant de quel côté regarder ! En vélo, la même prudence est de mise, et il est préférable de réfléchir avant de se lancer dans un rond-point ou dans une rue vide.
 
