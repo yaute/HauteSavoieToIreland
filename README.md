@@ -9,19 +9,19 @@ Il me parait évident de rédiger ce blog en français afin d'en faire profiter 
 Beaucoup d'hésitation de ma part quant au format du blog. Une certaine envie de faire original me vient, ainsi une première version va être publiée en readme de github histoire de ne pas faire comme tout le monde, mais face aux facilités offertes par github pour créer en quelques clics un réel blog (Jekyll, ou HubPress), mon hésitation est grande. Il n'est pas impossible que le format change d'ici peu... A suivre ! (Pourquoi pas profiter de l'occasion pour tester différents formats)
 
 
-## "Jingle bell, Jingle bell"
+## "Jingle bells, Jingle bells"
 *24/12/15*
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/templeBarChristmas.jpg)
 
-Quand il s'agit de fête, les Irlandais ne font pas dans la démesure. Noel n'est pas une exception. A peine Halloween terminé, les rues se sont littéralement transformées. Des lumières les décorent à l'excès : les bâtiments du centre ville en sont recouvertes. Des appels à la charité se font légion, avec les typiques sceaux transformés en tirelires géantes, secoués dans les rues par les membres de divers associations pour attirer l'attention des passants. Les Dublinois ne sortiront jamais sans leur "Christmas jumper", un pull décoré au thème de Noel du plus simple "Merry Christmas", au plus fantaisiste père Noel en mode gangsta par exemple. Un marché de Noel a été construit, mais n'est pas l'attraction la plus impressionnante de Dublin. Les centres commerciaux brillent eux aussi de mille feux. Les halls sont transformés en véritable exposition: des vitrines décorées à l'excès le tout sur un fond de musique de Noel (à domination religieuse) chantée en choeur par les enfants de l'école la plus proche, qui les rendront un lieu incontournable à visiter en cette période, histoire de pousser toujours plus la consommation. Le côté religieux sera également mis en valeur par des crèches en pleine rue qui rapellent que la laicité n'est pas de règle dans le pays. Mais le plus délirant se situe dans le quartier de Temple Bar, qui en plus de voir tous les pubs ultra décorés, sera arrosé d'une fausse neige qui n'est rien plus que de la mousse projetée depuis le sommet des pubs ! Remarque rapide concernant les excentricités, le spire, qui est le momument en forme d'aiguille géante construit pour fêter le millénaire, a été orné d'une puissante lumière bleue en l'honneur de Star Wars.
-
-En ce qui concerne le culinaire, le "Christmas pudding" sera incontournable. A base de chapelure, raisins secs, groseilles liés avec de la graisse de mouton ou de boeuf (suet). Personnellement je ne suis pas un grand fan.
-
-Ainsi, il sera impossible de ne pas ressentir l'esprit de Noel dans les rues de la capitale, ansi que dans tous les foyers. Mais vu l'investissement il est à se demander si nous sommes dans un moment de crise (budgétaire et environnementale)...
-
+Quand il s'agit de fête, les Irlandais ne font pas dans la démesure. Noël n'est pas une exception. A peine Halloween terminé, les rues se sont littéralement transformées. Des lumières les décorent à l'excès : les bâtiments du centre ville en sont recouvertes. Des appels à la charité se font légion, avec les typiques sceaux transformés en tirelires géantes, secoués dans les rues par les membres de diverses associations pour attirer l'attention des passants. Les Dublinois ne sortiront jamais sans leur "Christmas jumper", un pull décoré au thème de Noël, du plus simple "Merry Christmas", au plus fantaisiste père Noël en mode gangsta par exemple. Un marché de Noël a été construit, mais n'est pas l'attraction la plus impressionnante de Dublin. Les centres commerciaux brillent eux aussi de mille feux. Les halls sont transformés en véritable exposition: des vitrines décorées à l'excès le tout sur un fond de musique de Noël (à domination religieuse) chantée en choeur par les enfants de l'école la plus proche. Ils seront donc un lieu incontournable à visiter en cette période, histoire de pousser toujours plus la consommation. Le côté religieux sera également mis en valeur par des crèches en pleine rue qui rapellent que la laicité n'est pas de règle dans le pays. Mais le plus délirant se situe dans le quartier de Temple Bar, qui en plus de voir tous les pubs ultra décorés, sera arrosé d'une fausse neige qui n'est rien plus que de la mousse projetée depuis le sommet des pubs ! Remarque rapide concernant les excentricités, le "spire", qui est le momument en forme d'aiguille géante construit pour fêter le millénaire, a été orné d'une puissante lumière bleue en l'honneur de Star Wars.
 
 ![alt](https://raw.githubusercontent.com/yaute/HauteSavoieToIreland/master/Pictures/starWars.jpg)
+
+En ce qui concerne le culinaire, le "Christmas pudding" sera incontournable. A base de chapelure, raisins secs, groseilles, le tout lié avec de la graisse de mouton ou de boeuf (suet). Personnellement je ne suis pas un grand fan.
+
+Ainsi, il sera impossible de ne pas ressentir l'esprit de Noël dans les rues de la capitale, ansi que dans tous les foyers. Mais vu l'investissement, il est à se demander si nous sommes dans un moment de crise (budgétaire et environnementale)...
+
 
 ## "Là bas au Connemara..."
 *08/12/15*
